@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Piyush Shahi
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently in 3rd year pursuing Bachelor of Technology in computer science and engineering 
-- 📫 How to reach me mailto:piyushshahi@gmail.com
+- 📫 How to reach me piyushshahi@gmail.com
